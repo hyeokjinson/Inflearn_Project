@@ -24,7 +24,7 @@ int main() {
 		a.value.push_back(value_a);
 	}
 
-	for (int i = 0; i < 10; i++) {
+	for (int i = 0; i < 10; i++) { 
 		cin >> value_b;
 		b.value.push_back(value_b);
 	}
