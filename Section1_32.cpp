@@ -23,6 +23,7 @@ int main() {
 			num[idx] = tmp;
 		}
 	}
+
 	for (int i = 0; i < n; i++) {
 		printf("%d ", num[i]);
 	}
