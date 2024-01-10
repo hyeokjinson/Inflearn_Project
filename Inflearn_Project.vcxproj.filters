@@ -21,5 +21,8 @@
     <ClCompile Include="Section1_37.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Section1_38.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
