@@ -13,9 +13,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{8c143f6b-c73c-4a43-90dd-a087069e3b6d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section1_24.cpp">
+    <ClCompile Include="Section1_37.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
