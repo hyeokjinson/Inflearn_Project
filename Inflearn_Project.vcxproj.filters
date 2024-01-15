@@ -18,10 +18,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section1_37.cpp">
+    <ClCompile Include="Section1_39.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Section1_38.cpp">
+    <ClCompile Include="Section1_40.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
