@@ -22,5 +22,6 @@ int main(){
         printf("%c", str[pop()]);
     }
     
+
     return 0;
 }
