@@ -8,7 +8,6 @@ int pop() {
     return stack[top--];
 }
 
-
 int main(){
     int n,k;
     scanf("%d %d",&n,&k);

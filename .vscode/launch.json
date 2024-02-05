@@ -2,6 +2,7 @@
   "version": "0.2.0",
   "configurations": [
     {
+<<<<<<< HEAD
       "name": "gcc.exe - Build and debug active file",
       "type": "cppdbg",
       "request": "launch",
@@ -28,14 +29,21 @@
       "preLaunchTask": "C/C++: gcc.exe build active file"
     },
     {
+=======
+>>>>>>> afaa53f175476bfccf485d2a3fae336725919bff
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "f:/C_algorithm/Inflearn_Project",
       "program": "f:/C_algorithm/Inflearn_Project/build/Debug/outDebug",
+=======
+      "cwd": "f:/c++강의/vscode_inflearn/Inflearn_Project",
+      "program": "f:/c++강의/vscode_inflearn/Inflearn_Project/build/Debug/outDebug",
+>>>>>>> afaa53f175476bfccf485d2a3fae336725919bff
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
