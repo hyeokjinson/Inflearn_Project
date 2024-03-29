@@ -19,10 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section_54.cpp" />
+    <ClInclude Include="stdc++.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdc++.h" />
+    <ClCompile Include="Section_79.cpp" />
+    <ClCompile Include="Section_80.cpp" />
+    <ClCompile Include="Section_81.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
