@@ -22,8 +22,6 @@
     <ClInclude Include="stdc++.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Section_79.cpp" />
-    <ClCompile Include="Section_80.cpp" />
     <ClCompile Include="Section_81.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
